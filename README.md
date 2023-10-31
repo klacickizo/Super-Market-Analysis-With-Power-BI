@@ -5,6 +5,8 @@ Power BI is one of the robust tools a Data Analyst should have in his arsenal. I
 I made use of Power Query to load the Dataset.
 Then i proceeded to clean and Manipulate the dataset to prepare it for the analysis.
 
+You can view the dashboard [here](https://duckduckgo.com)
+
 Some of the views in the Dashboard are:
 - Location Anaysis
 - How Sales Trended by Months
